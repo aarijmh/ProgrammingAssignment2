@@ -3,6 +3,7 @@
 
 ## Write a short comment describing this function
 ## This functions sets the getters and setters of the matrix 'x' and it's inverse, and return them in a list
+## the getter of x is get, the setter of x is set, the getter of inverse is getinverse, the setter of inverse is setinverse
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
